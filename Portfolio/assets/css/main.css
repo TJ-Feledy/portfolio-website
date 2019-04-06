@@ -101,8 +101,9 @@ input, select, textarea {
 	body {
 		background-color: #2e3141;
 		background-image: url("../../images/eagle.jpg");
-		background-size: cover;
-		background-size: contain;
+		background-size: 100% 35%;
+		/* background-size: cover; */
+		/* background-size: contain; */
 		background-attachment: scroll;
 		background-position: center, center;
 	}
